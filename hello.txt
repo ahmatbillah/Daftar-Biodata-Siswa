@@ -1,2 +1,5 @@
 " Bismillah lulus kuliah tepat waktu "
 " Ya allah lancarkan lah urusan hamba baik di dunia maupun di akhirat "
+" colom 1 " 
+" colom 2 "
+" colom 3 "
